@@ -168,14 +168,14 @@ nav {
   color: #333;
 }
 .operation-transfer {
-  background-color: #00b79f;
+  background-color: #9dc08b;
 }
 .operation-loan {
-  background-color: #f3442a;
+  background-color: #f16767;
 }
 
 .operation-close {
-  background-color: #fdb850;
+  background-color: #fc7300;
 }
 h2 {
   margin-bottom: 1.5rem;
